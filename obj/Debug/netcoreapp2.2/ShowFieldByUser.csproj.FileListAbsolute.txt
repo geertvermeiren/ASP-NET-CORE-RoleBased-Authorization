@@ -1,0 +1,104 @@
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.deps.json
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.runtimeconfig.json
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.runtimeconfig.dev.json
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.dll
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.csprojAssemblyReference.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.csproj.CoreCompileInputs.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorAssemblyInfo.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorAssemblyInfo.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.AssemblyInfoInputs.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.AssemblyInfo.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.TagHelpers.input.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.TagHelpers.output.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorCoreGenerate.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorTargetAssemblyInfo.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorTargetAssemblyInfo.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.Views.dll
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.Views.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.Views.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.dll
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.csproj.CopyComplete
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\ToDo\Index.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\AUTHORIZATION SHOW FIELD BY USER\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\ToDo\AddItemPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.deps.json
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.runtimeconfig.json
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.runtimeconfig.dev.json
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.dll
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.Views.dll
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\bin\Debug\netcoreapp2.2\ShowFieldByUser.Views.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.csprojAssemblyReference.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.csproj.CoreCompileInputs.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorAssemblyInfo.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorAssemblyInfo.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.AssemblyInfoInputs.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.AssemblyInfo.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.TagHelpers.input.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.TagHelpers.output.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorCoreGenerate.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\ToDo\AddItemPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\ToDo\Index.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorTargetAssemblyInfo.cache
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.RazorTargetAssemblyInfo.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.Views.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.dll
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.pdb
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\ShowFieldByUser.csproj.CopyComplete
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\ManageUsers\Index.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\ManageUsers\Index2.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Views\Test\Index.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\VISUALSTUDIOCODE\TESTSERVER\ROLESBASED\ShowFieldByUser\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
